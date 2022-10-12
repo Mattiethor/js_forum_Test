@@ -1,0 +1,19 @@
+html, body {
+  margin: 10px;
+  height: 100%;
+  width: 100%;
+}
+
+.appButton{
+  background-color:blue;
+  color: white;
+  padding: 15px;
+  width: 120px;
+  font-size: 20px;
+  border-style: none;
+  border-radius: 30px;
+}
+
+.appButton:hover{
+  background-color:#0000b8;
+}
